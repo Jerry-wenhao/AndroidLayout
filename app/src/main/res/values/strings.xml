@@ -1,5 +1,8 @@
 <resources>
     <string name="app_name">Layout</string>
+    <string name="layout_button">button1</string>
+    <string name="layout_button2">frame_layout</string>
+    <string name="layout_button3">button3</string>
     <string name="button1">button1</string>
     <string name="button2">button2</string>
     <string name="button3">button3</string>
@@ -10,4 +13,5 @@
     <string name="button8">button8</string>
     <string name="button9">button9</string>
     <string name="button10">button10</string>
+    <string name="android_practice">Android practice</string>
 </resources>
