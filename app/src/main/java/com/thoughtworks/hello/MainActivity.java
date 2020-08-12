@@ -22,5 +22,15 @@ public class MainActivity extends AppCompatActivity {
                         startActivity(intent);
                     }
                 });
+
+        Button button_constraint = findViewById(R.id.enter_constraint);
+        button_constraint.setOnClickListener(
+                new View.OnClickListener() {
+                    @Override
+                    public void onClick(View view) {
+                        Intent intent = new Intent(MainActivity.this, ConstrainActivity.class);
+                        startActivity(intent);
+                    }
+                });
     }
 }
