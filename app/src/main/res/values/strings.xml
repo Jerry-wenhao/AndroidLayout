@@ -3,7 +3,7 @@
     <string name="layout_button">button1</string>
     <string name="layout_button2">frame_layout</string>
     <string name="layout_button3">button3</string>
-    <string name="button1">button1</string>
+    <string name="button1">button_back</string>
     <string name="button2">button2</string>
     <string name="button3">button3</string>
     <string name="button4">button4</string>
